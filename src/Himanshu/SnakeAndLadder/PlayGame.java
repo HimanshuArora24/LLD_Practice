@@ -41,7 +41,7 @@ public class PlayGame {
                 System.out.println(players[turn].getName() + " got a " + moves + " and stays at " + newPos);
 
             else
-                System.out.println(players[turn].getName() + " got a " + moves + " and moved from " + currPos + "to " + newPos);
+                System.out.println(players[turn].getName() + " got a " + moves + " and moved from " + currPos + " to " + newPos);
 
 
             if(players[turn].checkForWin()){

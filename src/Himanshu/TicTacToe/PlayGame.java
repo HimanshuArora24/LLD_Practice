@@ -40,7 +40,7 @@ class PlayGame{
                 turn = 1 - turn;
             }
             else{
-                System.out.println("Jaldi yah se hato");
+                System.out.println("Invalid move");
             }
         }
         System.out.println("Game Draw");

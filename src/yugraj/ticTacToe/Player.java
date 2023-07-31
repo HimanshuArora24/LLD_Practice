@@ -1,4 +1,4 @@
-package Himanshu.TicTacToe;
+package yugraj.ticTacToe;
 
 class Player{
     private String name;

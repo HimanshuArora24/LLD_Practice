@@ -1,4 +1,6 @@
-package Himanshu.TicTacToe;
+package yugraj.ticTacToe;
+
+import yugraj.ticTacToe.PlayGame;
 
 public class Main
 {

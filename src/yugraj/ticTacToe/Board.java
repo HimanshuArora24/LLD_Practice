@@ -1,4 +1,4 @@
-package Himanshu.TicTacToe;
+package yugraj.ticTacToe;
 
 
 import java.util.Arrays;

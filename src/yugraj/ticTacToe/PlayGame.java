@@ -1,4 +1,7 @@
-package Himanshu.TicTacToe;
+package yugraj.ticTacToe;
+
+import yugraj.ticTacToe.Board;
+import yugraj.ticTacToe.Player;
 
 import java.util.Scanner;
 
